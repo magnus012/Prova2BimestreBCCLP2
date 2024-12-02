@@ -1,7 +1,7 @@
 {
   "name": "prova2bimbcclp2",
   "version": "0.1.0",
-  "homepage": "https://magnus012.github.io",
+  "homepage": "https://magnus012.github.io/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.4.0",
